@@ -1,4 +1,4 @@
-#Tetris Game
+# Tetris Game
 
 A recreation of the arcade version of Tetris built in OOP Javascript.
 * Uses JS Canvas
